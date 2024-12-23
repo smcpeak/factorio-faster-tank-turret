@@ -1,0 +1,10 @@
+{
+    "name": "FasterTankTurret",
+    "version": "1.0.0",
+    "title": "Faster Tank Turret",
+    "author": "Scott McPeak",
+    "homepage": "https://github.com/smcpeak/factorio-faster-tank-turret",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Increase the traverse speed of the tank turret so it is more responsive in combat.  Default increase is 10x.  Compensates for lack of pre-aiming in the base game."
+}
