@@ -3,3 +3,9 @@ Version: 1.0.0
 Date: 2024-12-22
   Major Features:
     - Increase speed of tank turret traverse speed.
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2026-11-12
+  Compatibility:
+    - Update for Factorio 2.1.
